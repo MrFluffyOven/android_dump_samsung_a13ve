@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<exceptions>
+ 
+  <exception package="com.sec.factory.cameralyzer">
+    <permission name="android.permission.CAMERA" fixed="false"/>
+    <permission name="android.permission.ACCESS_MEDIA_LOCATION" fixed="false"/>
+    <permission name="android.permission.RECORD_AUDIO" fixed="false"/>
+  </exception>
+
+</exceptions>
